@@ -1,3 +1,5 @@
+all: test
+
 clean:
 	rm -rf *.tar
 	cask clean-elc
