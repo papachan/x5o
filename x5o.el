@@ -10,5 +10,9 @@
 
 ;;; Code:
 
+
+(defun print-hello ()
+  "hello")
+
 (provide 'x5o)
 ;;; x5o.el ends here
