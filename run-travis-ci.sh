@@ -1,1 +1,1 @@
-cask exec ert-runner && cask exec ecukes
+cask exec ert-runner
