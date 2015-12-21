@@ -12,4 +12,4 @@ env:
   - EVM_EMACS=emacs-24.5-bin
 script:
   - emacs --version
-  ./run-travis-ci.sh
+  - ./run-travis-ci.sh
