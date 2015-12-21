@@ -8,4 +8,5 @@
  (expect 2 (+ 1 1)))
 
 (expectations
- (expect "hello" (print-hello)))
+ (expect "First test passed" 
+ 	(print-x5o-hello)))

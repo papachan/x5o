@@ -32,8 +32,13 @@
 ;;; Code:
 (eval-when-compile (require 'cl))
 
-(defun print-hello ()
-  "hello")
+(defun print-x5o-hello nil
+      "Greet the world.
+    This function implements the canonical example program."
+      (interactive)
+      (message "First test passed"))
+
+(documentation 'print-x5o-hello)
 
 (provide 'x5o)
 ;;; x5o.el ends here
