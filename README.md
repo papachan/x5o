@@ -1,7 +1,5 @@
 # x5o.el
 
-Description
-
 ### Installation
 
 Put `x5o.el' in your Emacs load-path and add the line below to your .emacs file:
